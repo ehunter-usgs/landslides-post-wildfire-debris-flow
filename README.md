@@ -23,6 +23,7 @@ To begin working with the project
 
 ## Getting Started
 - run `npm install` to install application development dependencies
+  - **Ensure that node version 4.2.4 is being used**, so that the right `Util/util` is downloaded to node_modules
 - configure the application
 - run `grunt` from the install directory
 
