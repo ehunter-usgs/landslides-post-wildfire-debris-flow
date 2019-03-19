@@ -14,7 +14,7 @@ Generating a new Project
 - Install php
 
   ```bash
-  $ brew install php56 --with-pdo-pgsql
+  $ brew install php
   ```
 
 Using the Generated Project
